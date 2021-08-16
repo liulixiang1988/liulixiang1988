@@ -1,4 +1,3 @@
-### Hi there 👋
 <a href="https://http://liulixiang1988.github.io">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=liulixiang1988&show_icons=true" />
 </a>

@@ -1,3 +1,10 @@
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Microsoft
+- 🌱 I’m currently learning Kubernetes & Istio
+- 📫 How to reach me: liulixiang1988#gmail.com (replace # with @)
+
+
 <a href="http://liulixiang1988.github.io">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=liulixiang1988&show_icons=true" />
 </a>

@@ -1,7 +1,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Microsoft
-- 🌱 I’m currently learning Kubernetes & Istio
+- 🌱 Focus on AI system-related engineering work.
 - 📫 How to reach me: liulixiang1988#gmail.com (replace # with @)
 
 

@@ -7,10 +7,6 @@ Hi! My name is Lixiang Liu
 * ✉️  You can contact me at [liulixiang1988#gmail.com (replace # with @)](mailto:liulixiang1988@gmail.com)
 * 🚀  I'm currently working on [Azure Responsible AI](http://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2)
 
-<a href="https://www.x.com/liulixiang1988" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/liulixiang1988?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 

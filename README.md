@@ -1,7 +1,7 @@
 Hi! My name is Lixiang Liu
 ===================================================================================================================================
 
-🔭 I’m currently working on Microsoft and focusing on AI system-related engineering work.
+🔭 I’m currently working for Microsoft and focusing on AI system-related engineering work.
 
 * 🌍  I'm based in China
 * ✉️  You can contact me at [liulixiang1988@gmail.com](mailto:liulixiang1988@gmail.com)

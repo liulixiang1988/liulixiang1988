@@ -4,7 +4,7 @@ Hi! My name is Lixiang Liu
 🔭 I’m currently working for Microsoft and focusing on AI system-related engineering work.
 
 * 🌍  I'm based in China
-* ✉️  You can contact me at [liulixiang1988@gmail.com](mailto:liulixiang1988@gmail.com)
+* ✉️  You can contact me at [liulixiang1988#gmail.com (replace # with @)](mailto:liulixiang1988@gmail.com)
 * 🚀  I'm currently working on [Azure Responsible AI](http://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2)
 
 <a href="https://www.x.com/liulixiang1988" target="_blank" rel="noreferrer"><img
